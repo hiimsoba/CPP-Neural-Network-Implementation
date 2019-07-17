@@ -2,7 +2,7 @@
 
 #include <chrono>
 
-// i added this just for git, i'm an absolute mad lad
+// i removed a comment! AND NOW I'M DOING GIT DIFF!
 
 int main() {
 
