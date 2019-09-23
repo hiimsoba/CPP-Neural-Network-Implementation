@@ -2,8 +2,6 @@
 
 #include <chrono>
 
-// i removed a comment! AND NOW I'M DOING GIT DIFF!
-
 int main() {
 
     // declare the network
