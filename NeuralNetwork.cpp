@@ -9,10 +9,6 @@ double sigmoid_derivative(double x) {
     return x * (1 - x);
 }
 
-//double sigmoid_derivative(double x) {
-//    return exp(1) / pow(exp(1), 2);
-//}
-
 double tanhh(double x) {
     return tanh(x);
 }
