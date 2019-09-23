@@ -17,10 +17,6 @@ double tanhh_derivative(double x) {
     return 1 - x * x;
 }
 
-//double tanhh_derivative(double x) {
-//    return pow(1 / cosh(x), 2);
-//}
-
 // thought this will be more useful
 // maybe remove it and use a simple vector for the number of neurons in each layer of the neural network
 class Layer {
